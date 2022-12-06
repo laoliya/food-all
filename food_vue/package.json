@@ -19,7 +19,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",
     "@vue/cli-service": "^3.8.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
